@@ -1,4 +1,4 @@
-# Plant-Disease-Prediction-with-CNN
+# WebApp for Plant-Disease-Prediction-with-CNN
 
 This project utilizes Convolutional Neural Networks (CNNs) to predict plant diseases from images. It offers an end-to-end solution for detecting diseases in plant leaves, aiding farmers and agricultural experts in early disease detection and management.
 
