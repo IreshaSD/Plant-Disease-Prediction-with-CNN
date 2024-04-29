@@ -21,7 +21,7 @@ This project utilizes Convolutional Neural Networks (CNNs) to predict plant dise
   1.  Python 3.11.9
   2.  TensorFlow
   3.  Keras
-  4.  Streamlit (for the prediction system)
+  4.  Streamlit 
   5.  Pillow
   6.  Matplotlib
 
