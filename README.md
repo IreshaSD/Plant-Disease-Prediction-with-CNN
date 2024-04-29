@@ -18,7 +18,7 @@ This project utilizes Convolutional Neural Networks (CNNs) to predict plant dise
 
 ### Dependencies:
 
-  1.  Python 3.x
+  1.  Python 3.11.9
   2.  TensorFlow
   3.  Keras
   4.  Streamlit (for the prediction system)
